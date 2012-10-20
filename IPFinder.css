@@ -1,0 +1,14 @@
+.gmap3{
+  margin: 20px auto;
+  width: 500px;
+  height: 250px;
+}
+#delurl fieldset {
+	text-align: center;
+}
+#delurl .ui-btn.ui-submit {
+	margin: 0 5px;
+}
+p.center {
+	text-align: center; 
+}
